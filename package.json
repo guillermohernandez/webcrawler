@@ -1,0 +1,23 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillermohernandez/webcrawler.git"
+  },
+  "author": "Guillermo Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guillermohernandez/webcrawler/issues"
+  },
+  "homepage": "https://github.com/guillermohernandez/webcrawler#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
